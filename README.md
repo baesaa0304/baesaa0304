@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, I am a student preparing for a backend developer.</li>I will be a steadily growing developer. </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stack </h2> <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stack </h2>
        <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟OS🌟 </h4>
     <div style="margin: 0 auto; text-align: center;" align= "center">
          <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
