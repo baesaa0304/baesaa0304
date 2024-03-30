@@ -40,7 +40,8 @@
      </div>
      <div align= "center">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesaa0304&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baesaa0304&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baesaa0304&show_icons=true&theme=transparent)
     </div>
     <div align= "center">
         
