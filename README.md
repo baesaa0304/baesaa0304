@@ -40,8 +40,7 @@
      </div>
      <div>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesaa0304&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-         
-         [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=baesaa0304)](https://solved.ac/baesaa0304)      
+               
     </div>
         
 
