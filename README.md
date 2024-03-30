@@ -38,7 +38,7 @@
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
      </div>
-<div>
+<div align= "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baesaa0304)](https://github.com/anuraghazra/github-readme-stats)   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baesaa0304&show_icons=true&theme=transparent) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=baesaa0304)](https://solved.ac/baesaa0304)
