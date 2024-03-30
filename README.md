@@ -10,7 +10,7 @@
        <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟OS🌟 </h4>
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-        <img src="https://img.shields.io/badge/Window-#0078D4?style=for-the-badge&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Windows-#0078D4?style=for-the-badge&logo=Windows&logoColor=white">
     </div>
     </div>
     <div align= "center">
