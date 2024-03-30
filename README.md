@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, I am a student preparing for a backend developer.</li>I will be a steadily growing developer. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 백엔드 개발자를 꿈꾸는 배선영입니다.</li> 꾸준히 성장하는 개발자가 되겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stack </h2>
