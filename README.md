@@ -44,6 +44,7 @@
     <div align= "center"> <a href=https://velog.io/@baesunyoung34/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@baesunyoung34/posts"> </a>
          <a href=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4"> </a>
          <a href=mailto:baesun0304@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:baesun0304@gmail.com"> </a>
+        <a href=mailto:baesaa0304@naver.com> <img src="https://img.shields.io/badge/maildotcom-004788?style=for-the-badge&logo=maildotcom&logoColor=white&link=mailto:baesaa0304@naver.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
