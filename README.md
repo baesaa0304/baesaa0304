@@ -36,7 +36,8 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-          <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">   
+          <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+          <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=vmware&logoColor=white"> 
         </div>
     </div>
     <br /> 
@@ -45,7 +46,8 @@
     <div align= "center"> <a href=https://velog.io/@baesunyoung34/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@baesunyoung34/posts"> </a>
          <a href=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4"> </a>
          <a href=mailto:baesun0304@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:baesun0304@gmail.com"> </a>
-          </div>  <br> 
+<!--         /<a href=https://www.instagram.com/dev_sxn00/?next=https%3A%2F%2Fwww.instagram.com%2F> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=> </a>
+          </div>-->  <br>  
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
