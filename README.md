@@ -47,7 +47,8 @@
          <a href=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://rhetorical-carbon-428.notion.site/SunYoung-BAE-c340f3227161451391ac897e8db39e3f?pvs=4"> </a>
          <a href=mailto:baesun0304@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:baesun0304@gmail.com"> </a>
           <br>  
-    <div align= "center">  </div> 
+    
+<div align= "center">  </div> 
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
