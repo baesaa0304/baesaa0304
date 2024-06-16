@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&text=Hello%20I'm%20Baesunyoung&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 삽질을 하는것을 좋아하며 잘합니다. </div></br>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 개발자 뿐만 아니라 비개발 직군의 동료와도 원활한 커뮤니케이션을 하기 위해 노력합니다. </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 항상 새로운 것을 경험을 즐거워 합니다. </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 어려운 문제 앞에서도 강한 집중력을 통해 해결책을 찾아내기 위해 노력합니다. </div>     
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌Introduction </h2>
+     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 개발자 뿐만 아니라 비개발 직군의 동료와도 원활한 커뮤니케이션을 하기 위해 노력합니다. </div>   </br> 
+     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 어려운 문제 앞에서도 강한 집중력을 통해 해결책을 찾아내기 위해 노력합니다. </div>   </br> 
+     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 삽질을 하는것을 좋아하며 잘합니다. </div> </br>
+     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">✅ 항상 새로운 것을 경험을 즐거워 합니다. </div> </br>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stack </h2>
