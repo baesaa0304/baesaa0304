@@ -39,7 +39,7 @@
      </div>
 <div align= "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baesaa0304&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baesaa0304)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baesaa0304&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baesaa0304&layout=compact)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baesaa0304)](https://solved.ac/baesaa0304) 
 </div>
     
