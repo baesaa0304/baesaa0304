@@ -21,7 +21,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📁 Project </h2>  
     <ul>
       <li>🍀 <a href="https://github.com/ITWILL-MYLEAVES/Myleaves"> Plant What’s Next, 내풀잎스</a></li>
-      <li>🫂 <a href="https://github.com/ITWILL-SHAPE/Shape"></a>다양한 사람들과 다채로운 모임 SHAPE</li>
+      <li>🫂 <a href="https://github.com/ITWILL-SHAPE/Shape">다양한 사람들과 다채로운 모임 SHAPE</a></li>
     </ul>
     </div>
     </br>
