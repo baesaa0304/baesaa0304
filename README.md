@@ -2,17 +2,17 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=%20Hi%20I'm%20Bae%20sun%20young&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😄 Hi It's Me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😄 It's Me </h2> <br> 
     <div style="text-align: left;">
+         <a href="https://solved.ac/baesaa0304">
+      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=baesaa0304" style="display: inline-block;"/>
+    </a>
         <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaesaa0304&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Git&edge_flat=true"/></a>
         <a href="https://www.instagram.com/dev_pear/?hl=ko"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="> </a>
          <a href="https://baesaa0304.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-D52B1E?style=flat-square&logo=Tistory&logoColor=white&link="> </a>
          <a href="https://rhetorical-carbon-428.notion.site/c340f3227161451391ac897e8db39e3f?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
         <a href="mailto:baesaa0304@naver.com" target="_blank">
 <img src="https://img.shields.io/badge/Nmail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/></a>
- <a href="https://solved.ac/baesaa0304">
-      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=baesaa0304" style="display: inline-block;"/>
-    </a>
     </div>
     </div>
     <div style="text-align: left;"> 
