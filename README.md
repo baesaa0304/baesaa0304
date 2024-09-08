@@ -11,6 +11,9 @@
         <a href="mailto:baesaa0304@naver.com" target="_blank">
 <img src="https://img.shields.io/badge/Nmail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/>
 </a>
+    
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj= baesaa0304)](https://solved.ac/baesaa0304)
     </div>
     </div>
     <div style="text-align: left;"> 
@@ -63,4 +66,5 @@
           </div>
     </div>
     
+
     
