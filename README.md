@@ -8,6 +8,9 @@
         <a href="https://www.instagram.com/dev_pear/?hl=ko"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="> </a>
          <a href="https://baesaa0304.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-D52B1E?style=flat-square&logo=Tistory&logoColor=white&link="> </a>
          <a href="https://rhetorical-carbon-428.notion.site/c340f3227161451391ac897e8db39e3f?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
+        <a href="mailto:baesaa0304@naver.com" target="_blank">
+<img src="https://img.shields.io/badge/Nmail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/>
+</a>
     </div>
     </div>
     <div style="text-align: left;"> 
