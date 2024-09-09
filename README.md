@@ -15,28 +15,6 @@
 <img src="https://img.shields.io/badge/Nmail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/></a>
     </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience  </h2>  
-    <ul>
-      <li>💻 Women's Hackathon (2024.07.29 ~ 2024.08.27)</li>
-      <li>📚 Algorithm Study (2024-05-06 ~ ing)</li>
-      <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li>
-      <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
-    </ul>
-    </br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📁 Project </h2>  
-    <ul>
-      <li>🍀 <a href="https://github.com/ITWILL-MYLEAVES/Myleaves"> Plant What’s Next, 내풀잎스</a></li>
-      <li>🫂 <a href="https://github.com/ITWILL-SHAPE/Shape">다양한 사람들과 다채로운 모임 SHAPE</a></li>
-    </ul>
-    </div>
-    </br>
-    <div>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h2>
-        <ul>
-            <li>SQLD</li>
-        </ul>
-    </div>
     </br>
     <div style="text-align: left;">
     <h2> 🛠️ Tech Stacks </h2>
@@ -64,8 +42,30 @@
           <br/>
           </div>
     </div>
-    <!-- START BLOG POSTS -->
-    <!-- END BLOG POSTS -->
+     </br>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience  </h2>  
+    <ul>
+      <li>💻 Women's Hackathon (2024.07.29 ~ 2024.08.27)</li>
+      <li>📚 Algorithm Study (2024-05-06 ~ ing)</li>
+      <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li>
+      <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
+    </ul>
+    </br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📁 Project </h2>  
+    <ul>
+      <li>🍀 <a href="https://github.com/ITWILL-MYLEAVES/Myleaves"> Plant What’s Next, 내풀잎스</a></li>
+      <li>🫂 <a href="https://github.com/ITWILL-SHAPE/Shape">다양한 사람들과 다채로운 모임 SHAPE</a></li>
+    </ul>
+    </div>
+    </br>
+    <div>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h2>
+        <ul>
+            <li>SQLD</li>
+        </ul>
+    </div>
+    </br>
     
 
     
