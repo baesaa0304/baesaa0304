@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
-- [K번째 수](https://baesaa0304.tistory.com/entry/K%EB%B2%88%EC%A7%B8-%EC%88%98)
-- [[Git&amp;GitHub] 팀 프로젝트 관리 - 협업하기](https://baesaa0304.tistory.com/entry/GitStudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
-- [[Git&amp;GitHub] 팀 프로젝트 관리 - 초기설정](https://baesaa0304.tistory.com/entry/Gitstudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95)
-- [[Git&amp;GitHub] 개인 프로젝트 관리방법](https://baesaa0304.tistory.com/entry/Gitstudy-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%B0%A9%EB%B2%95)
-- [전화번호 목록](https://baesaa0304.tistory.com/entry/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D-1)
+- [[Git&amp;Github] 블로그 글 작성시 Github에 반영하는 방법](https://baesaa0304.tistory.com/entry/GitGithub-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80-%EC%9E%91%EC%84%B1%EC%8B%9C-Github-%EC%9E%94%EB%94%94-%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0)
+- [[PGM]K번째 수](https://baesaa0304.tistory.com/entry/K%EB%B2%88%EC%A7%B8-%EC%88%98)
+- [[지옥에서 온 Git&amp;GitHub] 팀 프로젝트 관리 - 협업하기](https://baesaa0304.tistory.com/entry/GitStudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
+- [[지옥에서 온 Git&amp;GitHub] 팀 프로젝트 관리 - 초기설정](https://baesaa0304.tistory.com/entry/Gitstudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95)
+- [[지옥에서 온 Git&amp;GitHub] 개인 프로젝트 관리방법](https://baesaa0304.tistory.com/entry/Gitstudy-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%B0%A9%EB%B2%95)
 
