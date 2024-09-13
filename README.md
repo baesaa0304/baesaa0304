@@ -77,3 +77,4 @@
 - [[Git_study] 팀 프로젝트 관리 - 초기설정](https://baesaa0304.tistory.com/entry/Gitstudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95)
 - [[Git_study] 개인 프로젝트 관리방법](https://baesaa0304.tistory.com/entry/Gitstudy-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%B0%A9%EB%B2%95)
 - [전화번호 목록](https://baesaa0304.tistory.com/entry/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D-1)
+
