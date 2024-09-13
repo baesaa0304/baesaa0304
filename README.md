@@ -47,7 +47,7 @@
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience  </h3>  
     <ul>
       <li>💻 Women's Hackathon (2024.07.29 ~ 2024.08.27)</li>
-      <li>📚 Algorithm Study (2024-05-06 ~ ing)</li>
+      <li>📚 Algorithm Study (2024.05.06 ~ ing)</li>
       <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li>
       <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
     </ul>
