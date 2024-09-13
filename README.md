@@ -60,7 +60,7 @@
     </div>
     </br>
     <div>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h2>
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h3>
         <ul>
             <li>SQLD</li>
         </ul>
@@ -70,7 +70,7 @@
 
 
 
-### Latest Blog Posts
+### 📝 Latest Blog Posts
 
 - [K번째 수](https://baesaa0304.tistory.com/entry/K%EB%B2%88%EC%A7%B8-%EC%88%98)
 - [[Git_Study] 팀 프로젝트 관리 - 협업하기](https://baesaa0304.tistory.com/entry/GitStudy-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
