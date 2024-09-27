@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[B0J]덱(10866번)](https://baesaa0304.tistory.com/entry/B0J10866%EB%B2%88)
 - [[B0J]큐(10845번)](https://baesaa0304.tistory.com/entry/B0J%ED%81%9010845%EB%B2%88)
 - [[B0J]스택 수열(1874번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B41874%EB%B2%88)
 - [[Spring &amp; SpringBoot] 이미지 저장 방법](https://baesaa0304.tistory.com/entry/Spring-SpringBoot-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EB%B2%95)
 - [[Git&amp;Github] (Github Repository) 레포지토리 합치기](https://baesaa0304.tistory.com/entry/GitGithub-Github-Repository-%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%ED%95%A9%EC%B9%98%EA%B8%B0)
-- [[Git&amp;Github] 블로그 글 작성시 Github에 반영하는 방법](https://baesaa0304.tistory.com/entry/GitGithub-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80-%EC%9E%91%EC%84%B1%EC%8B%9C-Github-%EC%9E%94%EB%94%94-%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0)
 
