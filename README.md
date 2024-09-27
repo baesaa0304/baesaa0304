@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[Spring &amp; Spriboot] Spring Security를 이용하여 이메일 인증 서비스 만들기](https://baesaa0304.tistory.com/entry/Spring-Spriboot-Spring-Security%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%9D%B8%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [[Spring &amp; Spriboot] Spring Security를 이용하여 회원 로그인 , 회원가입 서비스 만들기](https://baesaa0304.tistory.com/entry/Spring-Spriboot-Spring-Security%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%9A%8C%EC%9B%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[B0J]덱(10866번)](https://baesaa0304.tistory.com/entry/B0J10866%EB%B2%88)
 - [[B0J]큐(10845번)](https://baesaa0304.tistory.com/entry/B0J%ED%81%9010845%EB%B2%88)
 - [[B0J]스택 수열(1874번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B41874%EB%B2%88)
-- [[Spring &amp; SpringBoot] 이미지 저장 방법](https://baesaa0304.tistory.com/entry/Spring-SpringBoot-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EB%B2%95)
-- [[Git&amp;Github] (Github Repository) 레포지토리 합치기](https://baesaa0304.tistory.com/entry/GitGithub-Github-Repository-%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%ED%95%A9%EC%B9%98%EA%B8%B0)
 
