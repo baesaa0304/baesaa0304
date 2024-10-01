@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
-- [[Spring &amp; Spriboot] Spring Security를 이용하여 이메일 인증 서비스 만들기](https://baesaa0304.tistory.com/entry/Spring-Spriboot-Spring-Security%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%9D%B8%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [[Spring &amp; Spriboot] Spring Security를 이용하여 회원 로그인 , 회원가입 서비스 만들기](https://baesaa0304.tistory.com/entry/Spring-Spriboot-Spring-Security%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%9A%8C%EC%9B%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [[B0J]덱(10866번)](https://baesaa0304.tistory.com/entry/B0J10866%EB%B2%88)
-- [[B0J]큐(10845번)](https://baesaa0304.tistory.com/entry/B0J%ED%81%9010845%EB%B2%88)
-- [[B0J]스택 수열(1874번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B41874%EB%B2%88)
+- [[B0J]피보나치 수 5(2309번)](https://baesaa0304.tistory.com/entry/B0J%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-52309%EB%B2%88)
+- [[B0J]지능형 기차 2 (2406번)](https://baesaa0304.tistory.com/entry/B0J%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B8%B0%EC%B0%A8-2-2406%EB%B2%88)
+- [[B0J]일곱 난쟁이(2309번)](https://baesaa0304.tistory.com/entry/B0J%EC%9D%BC%EA%B3%B1-%EB%82%9C%EC%9F%81%EC%9D%B42309%EB%B2%88)
+- [[B0J]덱(10866번)](https://baesaa0304.tistory.com/entry/B0J%EB%8D%B110866%EB%B2%88)
+- [[B0J]이진수 덧셈(1252번)](https://baesaa0304.tistory.com/entry/B0J%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%881252%EB%B2%88)
 
