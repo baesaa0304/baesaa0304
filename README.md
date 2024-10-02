@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[B0J]소수 찾기(1978번)](https://baesaa0304.tistory.com/entry/B0J%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B01978%EB%B2%88)
+- [[B0J]N번째 큰 수(2693번)](https://baesaa0304.tistory.com/entry/B0JN%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%982693%EB%B2%88)
+- [[B0J]최대공약수와 최소공배수(2609번)](https://baesaa0304.tistory.com/entry/B0J%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%982609%EB%B2%88)
 - [[B0J]피보나치 수 5(2309번)](https://baesaa0304.tistory.com/entry/B0J%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-52309%EB%B2%88)
 - [[B0J]지능형 기차 2 (2406번)](https://baesaa0304.tistory.com/entry/B0J%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B8%B0%EC%B0%A8-2-2406%EB%B2%88)
-- [[B0J]일곱 난쟁이(2309번)](https://baesaa0304.tistory.com/entry/B0J%EC%9D%BC%EA%B3%B1-%EB%82%9C%EC%9F%81%EC%9D%B42309%EB%B2%88)
-- [[B0J]덱(10866번)](https://baesaa0304.tistory.com/entry/B0J%EB%8D%B110866%EB%B2%88)
-- [[B0J]이진수 덧셈(1252번)](https://baesaa0304.tistory.com/entry/B0J%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%881252%EB%B2%88)
 
