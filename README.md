@@ -76,9 +76,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[B0J]연산자 끼워넣기(14888번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88)
 - [[B0J]소수(2581번)](https://baesaa0304.tistory.com/entry/B0J%EC%86%8C%EC%88%982581%EB%B2%88)
 - [[B0J]쉽게 푸는 문제(1978번)](https://baesaa0304.tistory.com/entry/B0J%EC%89%BD%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%AC%B8%EC%A0%9C1978%EB%B2%88)
 - [[B0J]소수 찾기(1978번)](https://baesaa0304.tistory.com/entry/B0J%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B01978%EB%B2%88)
 - [[B0J]N번째 큰 수(2693번)](https://baesaa0304.tistory.com/entry/B0JN%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%982693%EB%B2%88)
-- [[B0J]최대공약수와 최소공배수(2609번)](https://baesaa0304.tistory.com/entry/B0J%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%982609%EB%B2%88)
 
