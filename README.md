@@ -77,9 +77,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[Git &amp; Github] 에러 [rejected] main -&gt; main (fetch first)](https://baesaa0304.tistory.com/entry/Git-Github-%EC%97%90%EB%9F%AC-rejected-main-main-fetch-first)
 - [[B0J]빗물(14719번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88-1)
 - [[B0J]괄호의 값(2504번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%922504%EB%B2%88)
 - [[B0J]연산자 끼워넣기(14888번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88)
 - [[B0J]소수(2581번)](https://baesaa0304.tistory.com/entry/B0J%EC%86%8C%EC%88%982581%EB%B2%88)
-- [[B0J]쉽게 푸는 문제(1978번)](https://baesaa0304.tistory.com/entry/B0J%EC%89%BD%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%AC%B8%EC%A0%9C1978%EB%B2%88)
 
