@@ -77,9 +77,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[Springboot &amp; JSP]  01. JSP 환경설정](https://baesaa0304.tistory.com/entry/Springboot-JSP-01-JSP-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
 - [[Git &amp; Github] 에러 [rejected] main -&gt; main (fetch first)](https://baesaa0304.tistory.com/entry/Git-Github-%EC%97%90%EB%9F%AC-rejected-main-main-fetch-first)
 - [[B0J]빗물(14719번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88-1)
 - [[B0J]괄호의 값(2504번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%922504%EB%B2%88)
 - [[B0J]연산자 끼워넣기(14888번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88)
-- [[B0J]소수(2581번)](https://baesaa0304.tistory.com/entry/B0J%EC%86%8C%EC%88%982581%EB%B2%88)
 
