@@ -64,6 +64,7 @@
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h3>
         <ul>
             <li>SQLD</li>
+            <li>정보처리기사</li>
         </ul>
     </div>
     </br>
