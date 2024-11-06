@@ -79,9 +79,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [아니 인터페이스는 뭐고.. 추상클래스는 뭐야!?](https://baesaa0304.tistory.com/entry/%EC%95%84%EB%8B%88-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94-%EB%AD%90%EA%B3%A0-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%AD%90%EC%95%BC)
 - [[B0J]가르침(1062번)](https://baesaa0304.tistory.com/entry/B0J%EA%B0%80%EB%A5%B4%EC%B9%A81062%EB%B2%88)
 - [[Springboot &amp; JSP]  01. JPA 환경설정](https://baesaa0304.tistory.com/entry/Springboot-JSP-01-JSP-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
 - [[Git &amp; Github] 에러 [rejected] main -&gt; main (fetch first)](https://baesaa0304.tistory.com/entry/Git-Github-%EC%97%90%EB%9F%AC-rejected-main-main-fetch-first)
 - [[B0J]빗물(14719번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B014888%EB%B2%88-1)
-- [[B0J]괄호의 값(2504번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%922504%EB%B2%88)
 
