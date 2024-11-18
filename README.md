@@ -79,9 +79,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [Java 변수의 초기값](https://baesaa0304.tistory.com/entry/Java-%EB%B3%80%EC%88%98%EC%9D%98-%EC%B4%88%EA%B8%B0%EA%B0%92)
+- [[B0J]괄호의 값(2504번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%922504%EB%B2%88-1)
 - [[B0J]스택 수열(1874번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B41874%EB%B2%88-1)
 - [[B0J]괄호(9012번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B89012%EB%B2%88)
 - [String / StringBuffer / StringBuilder 차이](https://baesaa0304.tistory.com/entry/String-StringBuffer-StringBuilder-%EC%B0%A8%EC%9D%B4)
-- [[B0J]단어 뒤집기(9093번)](https://baesaa0304.tistory.com/entry/B0J%EB%8B%A8%EC%96%B4-%EB%92%A4%EC%A7%91%EA%B8%B09093%EB%B2%88)
-- [[B0J]스택(10828번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D10828%EB%B2%88)
 
