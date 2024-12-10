@@ -79,9 +79,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[SQL의 충돌문제] MYSQL &amp; MARIADB 동시 설치 및 실행이 가능할까?](https://baesaa0304.tistory.com/entry/SQL%EC%9D%98-%EC%B6%A9%EB%8F%8C%EB%AC%B8%EC%A0%9C-MYSQL-MARIADB-%EB%8F%99%EC%8B%9C-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C)
 - [[B0J]에디터(1406번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%90%EB%94%94%ED%84%B01406%EB%B2%88)
 - [Java 변수의 초기값](https://baesaa0304.tistory.com/entry/Java-%EB%B3%80%EC%88%98%EC%9D%98-%EC%B4%88%EA%B8%B0%EA%B0%92)
 - [[B0J]괄호의 값(2504번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%922504%EB%B2%88-1)
 - [[B0J]스택 수열(1874번)](https://baesaa0304.tistory.com/entry/B0J%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B41874%EB%B2%88-1)
-- [[B0J]괄호(9012번)](https://baesaa0304.tistory.com/entry/B0J%EA%B4%84%ED%98%B89012%EB%B2%88)
 
