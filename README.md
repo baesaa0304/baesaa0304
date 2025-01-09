@@ -78,9 +78,9 @@
 
 ### 📝 Latest Blog Posts
 
+- [[Algorithms &amp; Data structure]List와 ArrayList](https://baesaa0304.tistory.com/entry/List%EC%99%80-ArrayList)
+- [[Algorithms &amp; Data structure]﻿유클리드 호제법(Euclidean Algorithm)](https://baesaa0304.tistory.com/entry/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
 - [자바의 Record? 그게 뭐야?](https://baesaa0304.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-Record-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%95%BC)
 - [NCP 활용 프로젝트 소개 - 우주다](https://baesaa0304.tistory.com/entry/NCP-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EC%9A%B0%EC%A3%BC%EB%8B%A4)
 - [[SQL의 충돌문제] MYSQL &amp; MARIADB 동시 설치 및 실행이 가능할까?](https://baesaa0304.tistory.com/entry/SQL%EC%9D%98-%EC%B6%A9%EB%8F%8C%EB%AC%B8%EC%A0%9C-MYSQL-MARIADB-%EB%8F%99%EC%8B%9C-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C)
-- [[B0J]에디터(1406번)](https://baesaa0304.tistory.com/entry/B0J%EC%97%90%EB%94%94%ED%84%B01406%EB%B2%88)
-- [Java 변수의 초기값](https://baesaa0304.tistory.com/entry/Java-%EB%B3%80%EC%88%98%EC%9D%98-%EC%B4%88%EA%B8%B0%EA%B0%92)
 
