@@ -78,7 +78,7 @@
 
 ### 📝 Latest Blog Posts
 
-- [GitFlow VS Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
+- [[Git &amp; Github] GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
 - [[Algorithms &amp; Data structure]List와 ArrayList](https://baesaa0304.tistory.com/entry/List%EC%99%80-ArrayList)
 - [[Algorithms &amp; Data structure]﻿유클리드 호제법(Euclidean Algorithm)](https://baesaa0304.tistory.com/entry/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
 - [자바의 Record? 그게 뭐야?](https://baesaa0304.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-Record-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%95%BC)
