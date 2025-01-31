@@ -1,8 +1,74 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=%20Hi%20I'm%20Bae%20sun%20young&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
-    <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😄 It's Me </h3> <br> 
+<br>
+<div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Portfolio</h2>
+</div>
+ <div style="padding-left: 20px;">
+    <h3>🪐 내 손안의 디지털 AI 다이어리 우주다</h3>
+    <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</blockquote>
+</div>
+
+<div>
+    <h4>🔎 프로젝트 소개</h4>
+      <p>모바일을 통해 편리하게 일기와 회고를 작성 및 작성된 일기를 AI를 통한 리포트 분석 및 창작이 가능한 사이트</p>
+</div>
+
+<div>
+  <h4>👩‍💻 담당업무</h4>
+  <ul>
+    <li>LLM을 사용한 AI 일기 및 회고, 창작 분석 결과값 웹 개발(백엔드)</li>
+    <li><a href="https://github.com/woozuda" target="_blank">깃허브</a></li>
+    <li><a href="https://woozuda.swygbro.com/" target="_blank">사이트 바로가기</a></li>
+  </ul>
+</div>
+
+<br>
+
+ <div>
+  <h3>🍀 Plant What’s Next, 내풀잎스</h3>
+  <blockquote>2023.07.25 ~ 2023.08.23</blockquote>
+</div>
+
+<div>
+  <h4>🔎 프로젝트 소개</h4>  
+  <p>식물 분/입양, 조경자재 판매, 식물 커뮤니티 사이트</p>
+</div>
+
+<div>
+  <h4>👩‍💻 담당업무</h4>
+  <ul>
+    <li>Q&A 사용자 , 관리자 웹 개발 & FullStack</li>
+    <li>FAQ 사용자 , 관리자 웹 개발 & FullStack</li>
+    <li><a href="https://github.com/ITWILL-MYLEAVES/Myleaves" target="_blank">깃허브</a></li>
+  </ul>
+</div>
+         
+<br>
+<div>
+  <h3>🫂 다양한 사람들과 다채로운 모임 SHAPE</h3>
+  <blockquote>2023.05.26 ~ 2023.06.23</blockquote>
+</div>
+
+<div>
+  <h4>🔎 프로젝트 소개</h4>  
+  <p>같은 취미를 가진 사람들이 같이 즐겁에 모여서 취미를 즐기기 위해 만든 사이트</p>
+</div>
+
+<div>
+  <h4>👩‍💻 담당업무</h4>
+  <ul>
+    <li>모임 페이지 웹 개발 & FullStack</li>
+    <li>관리자 대시보드 웹 개발 & FullStack</li>
+    <li><a href="https://github.com/ITWILL-SHAPE/Shape" target="_blank">깃허브</a></li>
+  </ul>
+</div>
+
+<br>
+
+ <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😄 It's Me </h2>
     <div style="text-align: left;">
          <a href="https://solved.ac/baesaa0304">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=baesaa0304" style="display: inline-block;"/>
@@ -18,7 +84,7 @@
     </div>
     </br>
     <div style="text-align: left;">
-    <h3> 🛠️ Tech Stacks </h3>
+    <h2> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
       <h4>✤ BackEnd</h4>
          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -45,25 +111,22 @@
     </div>
      </br>
     <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience  </h3>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience </h2> 
+    <li>🎓 Korea National University of Broadcasting and Communications Department of Computer Science (2025.02 ~ ing)</li>
+    <br>
     <ul>
-      <li>💻 Women's Hackathon (2024.07.29 ~ 2024.08.27)</li>
-      <li>📚 Algorithm Study (2024.05.06 ~ ing)</li>
-      <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li>
-      <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
-    </ul>
-    </br>
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📁 Project </h3>  
-    <ul>
-      <li>🍀 <a href="https://github.com/ITWILL-MYLEAVES/Myleaves"> Plant What’s Next, 내풀잎스</a></li>
-      <li>🫂 <a href="https://github.com/ITWILL-SHAPE/Shape">다양한 사람들과 다채로운 모임 SHAPE</a></li>
-    </ul>
-    </div>
+    <li>💻 스위프 7기(BE 파트 : LLM을 사용한 AI 일기 및 회고, 창작 분석 결과값 웹 개발) (2024.11.10 ~ 2025.12.28)</li>
+    <br> <!-- 줄 바꿈 -->
+    <li>💻 Fun.d 9기(BE 파트 : 웹소켓 및 STOMP 을 사용한 채팅개발 및 QnA 및 FAQ 기능 개발) (2024.10.05 ~ ing)</li>
+    <br>    
+    <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li><br>
+    <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
+</ul>
     </br>
     <div>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h3>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h2>
         <ul>
-             <li>정보처리기사</li>
+            <li>정보처리기사</li>
             <li>SQLD</li>
         </ul>
     </div>
@@ -72,7 +135,7 @@
 
 
 
-
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Curiosity</h2> 
 
 
 
