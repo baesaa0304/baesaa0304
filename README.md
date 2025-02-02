@@ -135,12 +135,6 @@
     </br>
     
 
-
-
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Curiosity</h2> 
-
-
-
 ## 📝 Latest Blog Posts
 
 - [[Git &amp; Github] GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
