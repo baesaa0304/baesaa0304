@@ -114,16 +114,11 @@
      </br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Experience </h2> 
-    <li>🎓 Korea National University of Broadcasting and Communications Department of Computer Science (2025.02 ~ ing)</li>
-    <br>
-    <ul>
-    <li>💻 스위프 7기(BE 파트 : LLM을 사용한 AI 일기 및 회고, 창작 분석 결과값 웹 개발) (2024.11.10 ~ 2025.12.28)</li>
-    <br> <!-- 줄 바꿈 -->
-    <li>💻 Fun.d 9기(BE 파트 : 웹소켓 및 STOMP 을 사용한 채팅개발 및 QnA 및 FAQ 기능 개발) (2024.10.05 ~ ing)</li>
-    <br>    
-    <li>🎓 Hyeopseong University Department of Finance & Taxation (2019.02 ~2024.02)</li><br>
-    <li>🖥️ ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
-</ul>
+    <ul>        
+        <li> 스위프 7기 | BE 파트 (2024.11.10 ~ 2025.12.28)</li>
+        <li> Fun.d 9기 | BE 파트 (2024.10.05 ~ ing)</li>
+        <li> ITWill Java & Backend Class (2023.02 ~ 2023.08)</li>
+    </ul>
     </br>
     <div>
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Certificate</h2>
