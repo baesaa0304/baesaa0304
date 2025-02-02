@@ -141,7 +141,7 @@
 
 
 
-#### 📝 Latest Blog Posts
+##### 📝 Latest Blog Posts
 
 - [[Git &amp; Github] GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
 - [[Algorithms &amp; Data structure]List와 ArrayList](https://baesaa0304.tistory.com/entry/List%EC%99%80-ArrayList)
