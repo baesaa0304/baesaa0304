@@ -132,9 +132,9 @@
 
 ## 📝 Latest Blog Posts
 
-- [[Git &amp; Github] GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
+- [[정보처리기사] 3트만에 합격 ㅋ...](https://baesaa0304.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-3%ED%8A%B8%EB%A7%8C%EC%97%90-%ED%95%A9%EA%B2%A9-%E3%85%8B)
+- [RestTemplate, WebClient(+ 동기vs비동기 방식)](https://baesaa0304.tistory.com/entry/HTTP-RestTemplate-WebClient-%EB%8F%99%EA%B8%B0vs%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B0%A9%EC%8B%9D)
+- [GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
 - [[Algorithms &amp; Data structure]List와 ArrayList](https://baesaa0304.tistory.com/entry/List%EC%99%80-ArrayList)
 - [[Algorithms &amp; Data structure]﻿유클리드 호제법(Euclidean Algorithm)](https://baesaa0304.tistory.com/entry/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
-- [자바의 Record? 그게 뭐야?](https://baesaa0304.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-Record-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%95%BC)
-- [NCP 활용 프로젝트 소개 - 우주다](https://baesaa0304.tistory.com/entry/NCP-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EC%9A%B0%EC%A3%BC%EB%8B%A4)
 
