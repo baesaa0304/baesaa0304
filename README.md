@@ -7,6 +7,7 @@
 </div>
  <div style="padding-left: 20px;">
     <h3>🌌 우주에 대한 호기심을 뉴스처럼 전하는 콘텐츠 (해커톤)</h3>
+    <h4>🏷️ 역할 : 백엔드</h4>
     <blockquote style="margin-bottom: 10px;">2025.04.19 ~ 2025.04.20</br>
     <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
 </div>
@@ -18,21 +19,21 @@
 
 <div>
   <h4>👩‍💻 담당업무</h4>
-  <ul>
-  <li>카카오 OAuth 기반 소셜 로그인, JWT 토큰 발급, 사용자 정보 연동 및 신규 회원가입 처리(백엔드)</li>
-  <li>메인 페이지에 표시되는 행성 정보 API 설계 및 구현(백엔드)</li>
-  <li>별자리 API설계  즐겨찾기 등록/해제 기능 구현(백엔드)</li>
-  <li>카드 뉴스 API설계 (백엔드)</li>
-  <li>별자리 및 카드 뉴스 제목 기반 검색 API</li>
-  <li>WebClient 기반 비동기 처리 방식으로OpenAI API와 연동된 우주 기반 Q&A 챗봇 기능 구현(백엔드)</li>
+ <ul>
+  <li>카카오 OAuth 기반 소셜 로그인, JWT 토큰 발급 및 사용자 정보 연동을 포함한 회원가입 API 구현</li>
+  <li>메인 페이지에 표시되는 행성 정보 조회 API 구현</li>
+  <li>별자리 정보 조회 및 즐겨찾기 등록/해제 API 구현</li>
+  <li>카드 뉴스 목록 및 상세 조회 API 구현</li>
+  <li>별자리 및 카드 뉴스 제목 기반 검색 API 구현</li>
+  <li>WebClient 기반 비동기 처리 방식으로 OpenAI API를 연동한 우주 기반 Q&A 챗봇 API 구현</li>
   <li>AWS EC2를 활용한 서비스 인프라 설계 및 배포·운영</li>
-  <li><a href="https://github.com/Nupeplo" target="_blank">깃허브</a></li>
-  </ul>
+</ul>
 </div>
 
 <br>
  <div style="padding-left: 20px;">
     <h3>💌 Rollin’Moment — 감정을 함께 나누는 디지털 롤링페이퍼</h3>
+    <h4>🏷️ 역할 : 백엔드</h4>
     <blockquote style="margin-bottom: 10px;">2025.03.05 ~ 2024.05.03</br>
     <style="margin-top: 5px;">앱 서비스(안드로이드, IOS)</blockquote>
 </div>
@@ -45,7 +46,7 @@
 <div>
   <h4>👩‍💻 담당업무</h4>
   <ul>
-    <li>이메일 및 소셜 로그인(카카오, 네이버, 애플) 기능 구현 및 JWT 토큰 발급, 사용자 정보 연동 처리 (백엔드)</li>
+    <li>이메일 및 OAuth 기반 소셜 로그인(카카오, 네이버, 애플) 기능과 JWT 토큰 발급, 사용자 정보 연동 API 구현</li>
     <li>백엔드 개발 환경 설정 및 GitHub 저장소 초기 구성</li>
     <li>NCP 기반 인프라 설계 및 서비스 배포·운영</li>
     <li><a href="https://github.com/RollingMoment" target="_blank">깃허브</a></li>
@@ -55,6 +56,7 @@
 <br>
  <div style="padding-left: 20px;">
     <h3>🪐 내 손안의 디지털 AI 다이어리 우주다 </h3>
+    <h4>🏷️ 역할 : 백엔드</h4>
     <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</br>
     <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
 </div>
@@ -67,7 +69,7 @@
 <div>
   <h4>👩‍💻 담당업무</h4>
   <ul>
-    <li>WebClient 기반 비동기 방식으로 OpenAI API를 호출하여,사용자의 일기·회고·창작 텍스트를 분석하는 기능 구현 (백엔드) </li>
+    <li>WebClient 기반 비동기 방식으로 OpenAI API를 호출하여,사용자의 일기·회고·창작 텍스트를 분석하는 API 구현 </li>
     <li><a href="https://github.com/woozuda" target="_blank">깃허브</a></li>
   </ul>
 </div>
@@ -76,6 +78,7 @@
 
  <div>
   <h3>🍀 Plant What’s Next, 내풀잎스</h3>
+  <h4>🏷️ 역할 : 백엔드 및 프론트</h4>
   <blockquote>2023.07.25 ~ 2023.08.23</br>
     <style="margin-top: 5px;">웹 서비스</blockquote>
 </div>
@@ -88,8 +91,8 @@
 <div>
   <h4>👩‍💻 담당업무</h4>
   <ul>
-    <li>Q&A 사용자 , 관리자 웹 개발 & FullStack</li>
-    <li>FAQ 사용자 , 관리자 웹 개발 & FullStack</li>
+    <li>Q&A 사용자 , 관리자 API 및 화면 페이지 구현</li>
+    <li>FAQ 사용자 , 관리자 API 및 화면 페이지 구현</li>
     <li><a href="https://github.com/ITWILL-MYLEAVES/Myleaves" target="_blank">깃허브</a></li>
   </ul>
 </div>
@@ -97,6 +100,7 @@
 <br>
 <div>
   <h3>🫂 다양한 사람들과 다채로운 모임 SHAPE</h3>
+  <h4>🏷️ 역할 : 백엔드 및 프론트</h4>
   <blockquote>2023.05.26 ~ 2023.06.23</br>
   <style="margin-top: 5px;">웹 서비스</blockquote>
 </div>
@@ -109,8 +113,8 @@
 <div>
   <h4>👩‍💻 담당업무</h4>
   <ul>
-    <li>모임 페이지 웹 개발 & FullStack</li>
-    <li>관리자 대시보드 웹 개발 & FullStack</li>
+    <li>모임 페이지 API 및 화면 페이지 구현</li>
+    <li>관리자 대시보드 API 및 화면 페이지 구현</li>
     <li><a href="https://github.com/ITWILL-SHAPE/Shape" target="_blank">깃허브</a></li>
   </ul>
 </div>
