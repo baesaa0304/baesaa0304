@@ -6,8 +6,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Portfolio</h2>
 </div>
  <div style="padding-left: 20px;">
-    <h3>🌌 우주에 대한 호기심을 뉴스처럼 전하는 콘텐츠 웹 서비스(해커톤)</h3>
-    <blockquote style="margin-bottom: 10px;">2025.04.19 ~ 2025.04.20</blockquote>
+    <h3>🌌 우주에 대한 호기심을 뉴스처럼 전하는 콘텐츠 (해커톤)</h3>
+    <blockquote style="margin-bottom: 10px;">2025.04.19 ~ 2025.04.20</br>
+    <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
 </div>
 
 <div>
@@ -31,8 +32,9 @@
 
 <br>
  <div style="padding-left: 20px;">
-    <h3>💌 Rollin’Moment — 감정을 함께 나누는 디지털 롤링페이퍼 앱 서비스 </h3>
-    <blockquote style="margin-bottom: 10px;">2025.03.05 ~ 2024.05.03</blockquote>
+    <h3>💌 Rollin’Moment — 감정을 함께 나누는 디지털 롤링페이퍼</h3>
+    <blockquote style="margin-bottom: 10px;">2025.03.05 ~ 2024.05.03</br>
+    <style="margin-top: 5px;">앱 서비스(안드로이드, IOS)</blockquote>
 </div>
 
 <div>
@@ -52,8 +54,9 @@
 
 <br>
  <div style="padding-left: 20px;">
-    <h3>🪐 내 손안의 디지털 AI 다이어리 우주다 웹 서비스</h3>
-    <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</blockquote>
+    <h3>🪐 내 손안의 디지털 AI 다이어리 우주다 </h3>
+    <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</br>
+    <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
 </div>
 
 <div>
@@ -72,8 +75,9 @@
 <br>
 
  <div>
-  <h3>🍀 Plant What’s Next, 내풀잎스 웹 서비스</h3>
-  <blockquote>2023.07.25 ~ 2023.08.23</blockquote>
+  <h3>🍀 Plant What’s Next, 내풀잎스</h3>
+  <blockquote>2023.07.25 ~ 2023.08.23</br>
+    <style="margin-top: 5px;">웹 서비스</blockquote>
 </div>
 
 <div>
@@ -92,8 +96,9 @@
          
 <br>
 <div>
-  <h3>🫂 다양한 사람들과 다채로운 모임 SHAPE 웹 서비스</h3>
-  <blockquote>2023.05.26 ~ 2023.06.23</blockquote>
+  <h3>🫂 다양한 사람들과 다채로운 모임 SHAPE</h3>
+  <blockquote>2023.05.26 ~ 2023.06.23</br>
+  <style="margin-top: 5px;">웹 서비스</blockquote>
 </div>
 
 <div>
