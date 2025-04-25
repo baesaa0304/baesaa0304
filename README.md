@@ -145,24 +145,29 @@
         <img src="https://img.shields.io/badge/JPA-139BB4?style=flat-square&logo=JPA&logoColor=white">
         <img src="https://img.shields.io/badge/Mybatis-D8352A?style=flat-square&logo=Mybatis&logoColor=white">
       <h4>✤ FrontEnd</h4>
+        <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> -->
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
         <img src="https://img.shields.io/badge/JSP-FF6633?style=flat-square&logo=JSP&logoColor=white">
-      <h4>✤ DataBase & Server</h4>
+      <h4>✤ DevOps</h4>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=NCP&logoColor=white">
+        <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> -->
+      <h4>✤ Database</h4>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-        <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=NCP&logoColor=white">
       <h4>✤ Other</h4>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"> -->
         <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
           <br/>
           </div>
