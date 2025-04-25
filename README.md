@@ -27,6 +27,7 @@
   <li>별자리 및 카드 뉴스 제목 기반 검색 API 구현</li>
   <li>WebClient 기반 비동기 처리 방식으로 OpenAI API를 연동한 우주 기반 Q&A 챗봇 API 구현</li>
   <li>AWS EC2를 활용한 서비스 인프라 설계 및 배포·운영</li>
+  <li><a href="https://github.com/Nupeplo" target="_blank">깃허브</a></li>
 </ul>
 </div>
 
