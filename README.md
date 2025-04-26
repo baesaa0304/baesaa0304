@@ -20,13 +20,12 @@
 <div>
   <h4>👩‍💻 담당업무</h4>
  <ul>
-  <li>카카오 OAuth 기반 소셜 로그인, JWT 토큰 발급 및 사용자 정보 연동을 포함한 회원가입 API 구현</li>
-  <li>메인 페이지에 표시되는 행성 정보 조회 API 구현</li>
-  <li>별자리 정보 조회 및 즐겨찾기 등록/해제 API 구현</li>
-  <li>카드 뉴스 목록 및 상세 조회 API 구현</li>
-  <li>별자리 및 카드 뉴스 제목 기반 검색 API 구현</li>
-  <li>WebClient 기반 비동기 처리 방식으로 OpenAI API를 연동한 우주 기반 Q&A 챗봇 API 구현</li>
-  <li>AWS EC2를 활용한 서비스 인프라 설계 및 배포·운영</li>
+  <li>OAuth 기반 카카오 소셜 회원가입 및 로그인, JWT 토큰 발급 및 사용자 인증 API 구현</li>
+  <li>행성 정보 조회 및 메인 페이지 데이터 제공 API 구현</li>
+  <li>별자리 기능 관련 API 개발 (리스트 조회, 상세 정보, 즐겨찾기 등록/해제, 제목 키워드 검색)</li>
+  <li>카드 뉴스 기능 관련 API 개발 (리스트 조회, 상세 정보, 제목 키워드 검색)</li>
+  <li>우주 기반 Q&A AI 챗봇 API 개발 (OpenAI 연동)</li>
+  <li>AWS EC2 + RDS를 활용한 서비스 인프라 설계 및 배포·운영</li>
   <li><a href="https://github.com/Nupeplo" target="_blank">깃허브</a></li>
 </ul>
 </div>
