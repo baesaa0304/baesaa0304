@@ -184,9 +184,9 @@
 
 ## 📝 Latest Blog Posts
 
+- [03. 관계형 모델](https://baesaa0304.tistory.com/entry/03-%EA%B4%80%EA%B3%84%ED%98%95-%EB%AA%A8%EB%8D%B8)
+- [02. 데이터베이스 모델링](https://baesaa0304.tistory.com/entry/02-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+- [01. 데이터베이스 이해](https://baesaa0304.tistory.com/entry/01-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B4%ED%95%B4)
 - [[정보처리기사] 3트만에 합격 ㅋ...](https://baesaa0304.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-3%ED%8A%B8%EB%A7%8C%EC%97%90-%ED%95%A9%EA%B2%A9-%E3%85%8B)
 - [RestTemplate, WebClient(+ 동기vs비동기 방식)](https://baesaa0304.tistory.com/entry/HTTP-RestTemplate-WebClient-%EB%8F%99%EA%B8%B0vs%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B0%A9%EC%8B%9D)
-- [GitFlow와 Github Flow](https://baesaa0304.tistory.com/entry/GitFlow-VS-Github-Flow)
-- [[Algorithms &amp; Data structure]List와 ArrayList](https://baesaa0304.tistory.com/entry/List%EC%99%80-ArrayList)
-- [[Algorithms &amp; Data structure]﻿유클리드 호제법(Euclidean Algorithm)](https://baesaa0304.tistory.com/entry/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%ED%98%B8%EC%A0%9C%EB%B2%95Euclidean-Algorithm)
 
