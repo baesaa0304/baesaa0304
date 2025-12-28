@@ -16,20 +16,6 @@
     <h4>🔎 프로젝트 소개</h4>
       <p>Nupeplo는 우주에 대한 호기심을 쉽고 재미있게 풀어내는 콘텐츠 플랫폼으로, 행성 정보, 별자리 이야기, 우주 뉴스를 제공하는 사이트</p>
 </div>
-
-<div>
-  <h4>👩‍💻 담당업무</h4>
- <ul>
-  <li>OAuth 기반 카카오 소셜 회원가입 및 로그인, JWT 토큰 발급 및 사용자 인증 API 구현</li>
-  <li>행성 정보 조회 및 메인 페이지 데이터 제공 API 구현</li>
-  <li>별자리 기능 관련 API 구현 (리스트 조회, 상세 정보, 즐겨찾기 등록/해제, 제목 키워드 검색)</li>
-  <li>카드 뉴스 기능 관련 API 구현 (리스트 조회, 상세 정보, 제목 키워드 검색)</li>
-  <li>우주 기반 Q&A AI 챗봇 API 구현 (OpenAI 연동)</li>
-  <li>AWS EC2 + RDS를 활용한 서비스 인프라 설계 및 배포·운영</li>
-  <li><a href="https://github.com/Nupeplo" target="_blank">깃허브</a></li>
-</ul>
-</div>
-
 <br>
  <div style="padding-left: 20px;">
     <h3>💌 Rollin’Moment — 감정을 함께 나누는 디지털 롤링페이퍼</h3>
@@ -43,35 +29,11 @@
       <p>Rollin’Moment는 소중한 순간에 여러 사람이 함께 메시지를 남기고 감정을 나눌 수 있도록 돕는, 디지털 롤링페이퍼 기반의 모바일 앱</p>
 </div>
 
-<div>
-  <h4>👩‍💻 담당업무</h4>
-  <ul>
-    <li>이메일 및 OAuth 기반 소셜 로그인(카카오, 네이버, 애플) 기능과 JWT 토큰 발급, 사용자 정보 연동 API 구현</li>
-    <li>백엔드 개발 환경 설정 및 GitHub 저장소 초기 구성</li>
-    <li>NCP 기반 인프라 설계 및 서비스 배포·운영</li>
-    <li><a href="https://github.com/RollingMoment" target="_blank">깃허브</a></li>
-  </ul>
-</div>
-
 <br>
- <div style="padding-left: 20px;">
-    <h3>🪐 내 손안의 디지털 AI 다이어리 우주다 </h3>
-    <h4>🏷️ 역할 : 백엔드</h4>
-    <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</br>
-    <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
-</div>
 
 <div>
     <h4>🔎 프로젝트 소개</h4>
       <p>모바일을 통해 편리하게 일기와 회고를 작성 및 작성된 일기를 AI를 통한 리포트 분석 및 창작이 가능한 사이트</p>
-</div>
-
-<div>
-  <h4>👩‍💻 담당업무</h4>
-  <ul>
-    <li>WebClient 기반 비동기 방식으로 OpenAI API를 호출하여,사용자의 일기·회고·창작 텍스트를 분석하는 API 구현 </li>
-    <li><a href="https://github.com/woozuda" target="_blank">깃허브</a></li>
-  </ul>
 </div>
 
 <br>
@@ -110,15 +72,6 @@
   <p>같은 취미를 가진 사람들이 같이 즐겁에 모여서 취미를 즐기기 위해 만든 사이트</p>
 </div>
 
-<div>
-  <h4>👩‍💻 담당업무</h4>
-  <ul>
-    <li>모임 페이지 API 및 화면 페이지 구현</li>
-    <li>관리자 대시보드 API 및 화면 페이지 구현</li>
-    <li><a href="https://github.com/ITWILL-SHAPE/Shape" target="_blank">깃허브</a></li>
-  </ul>
-</div>
-
 <br>
 
  <div style="text-align: left;">
@@ -145,13 +98,17 @@
         <img src="https://img.shields.io/badge/JPA-139BB4?style=flat-square&logo=JPA&logoColor=white">
         <img src="https://img.shields.io/badge/Mybatis-D8352A?style=flat-square&logo=Mybatis&logoColor=white">
       <h4>✤ FrontEnd</h4>
-        <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
         <img src="https://img.shields.io/badge/JSP-FF6633?style=flat-square&logo=JSP&logoColor=white">
+    <h4>✤Search</h4>
+          <img src="https://img.shields.io/badge/apachesolr-D9411E?style=flat-square&logo=apachesolr&logoColor=white">
+          <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white">
+          <img src="https://img.shields.io/badge/opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white">
       <h4>✤ DevOps</h4>
         <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
@@ -159,6 +116,7 @@
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> 
       <h4>✤ Database</h4>
+        <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
