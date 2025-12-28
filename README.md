@@ -30,6 +30,12 @@
 </div>
 
 <br>
+ <div style="padding-left: 20px;">
+    <h3>🪐 우주다</h3>
+    <h4>🏷️ 역할 : 백엔드</h4>
+    <blockquote style="margin-bottom: 10px;">2024.11.10 ~ 2024.12.28</br>
+    <style="margin-top: 5px;">앱 서비스(안드로이드, IOS)</blockquote>
+</div>
 
 <div>
     <h4>🔎 프로젝트 소개</h4>
@@ -48,17 +54,7 @@
 <div>
   <h4>🔎 프로젝트 소개</h4>  
   <p>식물 분/입양, 조경자재 판매, 식물 커뮤니티 사이트</p>
-</div>
-
-<div>
-  <h4>👩‍💻 담당업무</h4>
-  <ul>
-    <li>Q&A 사용자 , 관리자 API 및 화면 페이지 구현</li>
-    <li>FAQ 사용자 , 관리자 API 및 화면 페이지 구현</li>
-    <li><a href="https://github.com/ITWILL-MYLEAVES/Myleaves" target="_blank">깃허브</a></li>
-  </ul>
-</div>
-         
+</div>         
 <br>
 <div>
   <h3>🫂 다양한 사람들과 다채로운 모임 SHAPE</h3>
