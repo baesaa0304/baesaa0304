@@ -6,6 +6,18 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Portfolio</h2>
 </div>
  <div style="padding-left: 20px;">
+    <h3>🐤 내가 만든 맛집 AI NyamBot</h3>
+    <h4>🏷️ 역할 : 개발 , 기획 , 디자인</h4>
+    <blockquote style="margin-bottom: 10px;">2026.06.01 ~ 진행중</br>
+    <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
+</div>
+
+<div>
+    <h4>🔎 프로젝트 소개</h4>
+      <p>Nupeplo는 우주에 대한 호기심을 쉽고 재미있게 풀어내는 콘텐츠 플랫폼으로, 행성 정보, 별자리 이야기, 우주 뉴스를 제공하는 사이트</p>
+</div>
+<br>
+ <div style="padding-left: 20px;">
     <h3>🌌 우주에 대한 호기심을 뉴스처럼 전하는 콘텐츠 (해커톤)</h3>
     <h4>🏷️ 역할 : 백엔드</h4>
     <blockquote style="margin-bottom: 10px;">2025.04.19 ~ 2025.04.20</br>
@@ -91,6 +103,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white">
         <img src="https://img.shields.io/badge/JPA-139BB4?style=flat-square&logo=JPA&logoColor=white">
         <img src="https://img.shields.io/badge/Mybatis-D8352A?style=flat-square&logo=Mybatis&logoColor=white">
       <h4>✤ FrontEnd</h4>
