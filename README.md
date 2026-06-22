@@ -8,7 +8,7 @@
  <div style="padding-left: 20px;">
     <h3>🐤 내가 만든 맛집 AI NyamBot</h3>
     <h4>🏷️ 역할 : 개발 , 기획 , 디자인</h4>
-    <blockquote style="margin-bottom: 10px;">2026.06.01 ~ 진행중</br>
+    <blockquote style="margin-bottom: 10px;">2026.05.20 ~ 진행중</br>
     <style="margin-top: 5px;">모바일 웹 서비스</blockquote>
 </div>
 
