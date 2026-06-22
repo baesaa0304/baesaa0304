@@ -118,12 +118,16 @@
           <img src="https://img.shields.io/badge/apachesolr-D9411E?style=flat-square&logo=apachesolr&logoColor=white">
           <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white">
           <img src="https://img.shields.io/badge/opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white">
+           <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white">
       <h4>✤ DevOps</h4>
-        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
         <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=NCP&logoColor=white">
         <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> 
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+        <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
       <h4>✤ Database</h4>
         <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
